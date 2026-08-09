@@ -82,7 +82,7 @@ All experiments conducted on:
 
 ```bash
 # Clone repository
-git clone https://github.com/niloy-brac/dfs-merging-blackbox-optimization.git
+git clone https://github.com/Mdniloykhan/dfs-merging-blackbox-optimization.git
 cd dfs-merging-blackbox-optimization
 
 # Install dependencies
