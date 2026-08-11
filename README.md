@@ -99,7 +99,7 @@ pip install mergekit --no-deps
 ### Phase 1: Baseline Comparison (PS Merging, Unstructured DFS, Structured DFS)
 
 ```bash
-python experiments/phase1_full_experiment_checkpoint.py
+python experiments/phase1_baseline_gsm8k_experiment.py
 ```
 
 Results saved to: `results/experiment_results_final.json`
@@ -123,7 +123,7 @@ Results saved to: `results/experiment_results_phase3.json`
 ### Phase 4: MMLU Benchmark
 
 ```bash
-python experiments/phase4_mmlu.py
+python experiments/phase4_baseline_mmlu_experiment.py
 ```
 
 Results saved to: `results/experiment_results_phase4.json`
