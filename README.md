@@ -145,10 +145,10 @@ dfs-merging-blackbox-optimization/
 ├── README.md
 ├── requirements.txt
 ├── experiments/
-│   ├── phase1_full_experiment_checkpoint.py
+│   ├── phase1_baseline_gsm8k_experiment.py
 │   ├── phase2_cmaes_experiment.py
 │   ├── phase3_sota_comparison.py
-│   ├── phase4_mmlu.py
+│   ├── phase4_baseline_mmlu_experiment.py
 │   └── phase5_ablation.py
 ├── results/
 │   ├── experiment_results_final.json
