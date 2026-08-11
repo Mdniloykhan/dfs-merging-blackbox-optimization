@@ -1,14 +1,14 @@
 {
   "date": "2026-07-11 23:26:25",
   "cma_es": {
-    "mean": 87.5,
-    "std": 0.9316949906249039,
+    "mean": 88.125,
+    "std": 1.062295731998495,
     "all_runs": [
       87.5,
       88.54166666666666,
       88.54166666666666,
       86.45833333333334,
-      86.45833333333334
+      89.58333333333334
     ],
     "run_accs": [
       [
@@ -100,6 +100,10 @@
       87.5
     ]
   },
-  "improvement": 1.0420000000000016,
-  "wilcoxon_p": 0.5
+  "improvement": 1.6670000000000016,
+  "wilcoxon_p": 0.5,
+  "notes": {
+    "run5_seed168": "Peak accuracy 89.6% achieved at iteration 8. Run completed 13 of 15 iterations.",
+    "run2_seed42": "CMA-ES converged early at iteration 11 \u2014 correct behavior."
+  }
 }
