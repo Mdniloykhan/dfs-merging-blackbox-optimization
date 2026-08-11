@@ -1,0 +1,45 @@
+{
+  "date": "2026-06-25 08:32:44",
+  "model_a": "mistralai/Mistral-7B-v0.1",
+  "model_b": "mistralai/Mistral-7B-Instruct-v0.2",
+  "num_questions": 97,
+  "num_seeds": 5,
+  "total_layers": 291,
+  "model_a_accuracy": 43.75,
+  "ps_merging": {
+    "mean": 84.375,
+    "std": 0.0,
+    "all_runs": [
+      84.375,
+      84.375,
+      84.375,
+      84.375,
+      84.375
+    ]
+  },
+  "unstructured_dfs": {
+    "mean": 86.04166666666667,
+    "std": 0.510310363079838,
+    "all_runs": [
+      85.41666666666666,
+      85.41666666666666,
+      86.45833333333334,
+      86.45833333333334,
+      86.45833333333334
+    ]
+  },
+  "structured_dfs": {
+    "mean": 86.45833333333334,
+    "std": 1.141088661469096,
+    "all_runs": [
+      86.45833333333334,
+      84.375,
+      86.45833333333334,
+      87.5,
+      87.5
+    ],
+    "avg_active_layers": 146.96,
+    "search_space_reduction": 49.498281786941575
+  },
+  "model_b_accuracy": 85.41666666666666
+}
