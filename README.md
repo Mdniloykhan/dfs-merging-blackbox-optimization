@@ -102,7 +102,7 @@ pip install mergekit --no-deps
 python experiments/phase1_baseline_gsm8k_experiment.py
 ```
 
-Results saved to: `results/experiment_results_final.json`
+Results saved to: `results/experiment_results_phase1.json`
 
 ### Phase 2: CMA-ES Experiment
 
@@ -110,7 +110,7 @@ Results saved to: `results/experiment_results_final.json`
 python experiments/phase2_cmaes_experiment.py
 ```
 
-Results saved to: `results/experiment_results_phase2.json`
+Results saved to: `experiment_results_phase2.json`
 
 ### Phase 3: SOTA Comparison (TIES, DARE, DELLA)
 
@@ -151,7 +151,7 @@ dfs-merging-blackbox-optimization/
 │   ├── phase4_baseline_mmlu_experiment.py
 │   └── phase5_ablation.py
 ├── results/
-│   ├── experiment_results_final.json
+│   ├── experiment_results_phase1.json
 │   ├── experiment_results_phase2.json
 │   ├── experiment_results_phase3.json
 │   ├── experiment_results_phase4.json
