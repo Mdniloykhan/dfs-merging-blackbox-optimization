@@ -170,9 +170,11 @@ dfs-merging-blackbox-optimization/
 │   ├── phase5_ablation_results.json
 │   └── phase6_full_mmlu_results.json
 └── figures/
-    ├── phase1_gsm8k_results.png
-    ├── phase2_results.png
-    └── phase5_ablation.png
+    ├── figure_ablation_study.png
+    ├── figure_full_gsm8k_baselines.png
+    └── figure_full_mmlu_results.png
+    ├── figure_gsm8k_subset.png
+    └── figure_mmlu_subset.png
 ```
 
 ---
