@@ -9,7 +9,7 @@
 **Institution:** BRAC University, Dhaka, Bangladesh
 **Email:** md.niloy26643@gmail.com
 **arXiv:** https://arxiv.org/abs/2605.12326
-**Zenodo:** https://zenodo.org/records/20123507
+**Zenodo:** https://doi.org/10.5281/zenodo.23213622
 
 ---
 
