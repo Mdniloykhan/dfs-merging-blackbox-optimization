@@ -3,7 +3,7 @@
 [![arXiv](https://img.shields.io/badge/arXiv-2605.12326-b31b1b.svg)](https://arxiv.org/abs/2605.12326)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Python 3.12](https://img.shields.io/badge/python-3.12-blue.svg)](https://www.python.org/downloads/)
-[![Zenodo](https://img.shields.io/badge/DOI-10.5281%2Fzenodo.20123507-blue)](https://zenodo.org/records/20123507)
+[![Zenodo](https://img.shields.io/badge/DOI-10.5281%2Fzenodo.20123507-blue)](https://doi.org/10.5281/zenodo.23213622)
 
 **Author:** Md. Robiul Islam Niloy
 **Institution:** BRAC University, Dhaka, Bangladesh
