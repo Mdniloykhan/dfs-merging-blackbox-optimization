@@ -1,0 +1,74 @@
+{
+  "date": "2026-10-14 20:28:00",
+  "benchmark": "Official MMLU (14,042 questions, 57 subjects)",
+  "model_a_baseline": 20.367469021506906,
+  "model_b_baseline": 51.096709870388835,
+  "method_means": {
+    "ps_merging": 50.3988035892323,
+    "unstructured_dfs": 49.56084128566681,
+    "structured_dfs": 38.99966766367564,
+    "ties": 30.479988605611734,
+    "dare": 34.42054788016902,
+    "della": 26.9311114276219,
+    "cma_es": 43.07553529886531
+  },
+  "method_stds": {
+    "ps_merging": 0.0,
+    "unstructured_dfs": 0.8769433814210815,
+    "structured_dfs": 4.316550223563944,
+    "ties": 0.0,
+    "dare": 4.186623453758921,
+    "della": 0.20887014107637844,
+    "cma_es": 2.831061808294779
+  },
+  "comparisons": {
+    "cma_es_vs_ps_merging": {
+      "cma_es_mean": 43.07553529886531,
+      "other_mean": 50.3988035892323,
+      "mean_diff": -7.32326829036699,
+      "p_value": 1.0,
+      "cohens_d": -3.658226502434403,
+      "significant": false
+    },
+    "cma_es_vs_unstructured_dfs": {
+      "cma_es_mean": 43.07553529886531,
+      "other_mean": 49.56084128566681,
+      "mean_diff": -6.4853059868014995,
+      "p_value": 1.0,
+      "cohens_d": -3.094573291221158,
+      "significant": false
+    },
+    "cma_es_vs_structured_dfs": {
+      "cma_es_mean": 43.07553529886531,
+      "other_mean": 38.99966766367564,
+      "mean_diff": 4.075867635189674,
+      "p_value": 0.125,
+      "cohens_d": 1.116623329483749,
+      "significant": false
+    },
+    "cma_es_vs_ties": {
+      "cma_es_mean": 43.07553529886531,
+      "other_mean": 30.479988605611734,
+      "mean_diff": 12.595546693253578,
+      "p_value": 0.125,
+      "cohens_d": 6.291912422015223,
+      "significant": false
+    },
+    "cma_es_vs_dare": {
+      "cma_es_mean": 43.07553529886531,
+      "other_mean": 34.42054788016902,
+      "mean_diff": 8.654987418696294,
+      "p_value": 0.25,
+      "cohens_d": 2.4218531650702393,
+      "significant": false
+    },
+    "cma_es_vs_della": {
+      "cma_es_mean": 43.07553529886531,
+      "other_mean": 26.9311114276219,
+      "mean_diff": 16.14442387124341,
+      "p_value": 0.125,
+      "cohens_d": 8.042839984153531,
+      "significant": false
+    }
+  }
+}
