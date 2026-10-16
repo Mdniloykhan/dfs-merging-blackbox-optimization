@@ -1,0 +1,43 @@
+{
+  "date": "2026-10-15 04:05:57",
+  "benchmark": "Official GSM8K (1,319 questions)",
+  "model_b_baseline": 36.770280515542076,
+  "comparisons": {
+    "cma_es_vs_ps_merging": {
+      "mean_diff": -6.014657568865307,
+      "p_value": 1.0,
+      "cohens_d": -3.231298550518146,
+      "significant": false
+    },
+    "cma_es_vs_unstructured_dfs": {
+      "mean_diff": -6.292645943896897,
+      "p_value": 1.0,
+      "cohens_d": -3.0827788510550977,
+      "significant": false
+    },
+    "cma_es_vs_structured_dfs": {
+      "mean_diff": 5.003790750568612,
+      "p_value": 0.125,
+      "cohens_d": 1.1883589386073754,
+      "significant": false
+    },
+    "cma_es_vs_ties": {
+      "mean_diff": 14.834470558503918,
+      "p_value": 0.125,
+      "cohens_d": 7.969631298967018,
+      "significant": false
+    },
+    "cma_es_vs_dare": {
+      "mean_diff": 4.67525903462219,
+      "p_value": 0.125,
+      "cohens_d": 2.0837879060868754,
+      "significant": false
+    },
+    "cma_es_vs_della": {
+      "mean_diff": 24.437705332322466,
+      "p_value": 0.125,
+      "cohens_d": 13.048518625126365,
+      "significant": false
+    }
+  }
+}
