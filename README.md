@@ -266,6 +266,6 @@ Three fundamental challenges:
 ## Contact
 
 **Md. Robiul Islam Niloy**  
-Department Coordinator, CSE  
+Department of CSE  
 BRAC University, Bangladesh  
 md.niloy26643@gmail.com
