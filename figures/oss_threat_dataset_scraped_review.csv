@@ -1,2 +1,0 @@
-id,title,description,label,predicted_label,source,ecosystem,year
-socketf375e52fcb,Security that keeps pace with AI development,"A supply chain attack compromised LiteLLM 1.107.0 on PyPI and Docker, spreading malware that steals cloud credentials, developer secrets, and AI provider keys.",REVIEW_NEEDED,,https://socket.dev/blog/litellm-compromise,PyPI,
