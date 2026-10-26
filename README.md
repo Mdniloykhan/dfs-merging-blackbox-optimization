@@ -255,7 +255,7 @@ Three fundamental challenges:
 @misc{niloy2026blackbox,
   title={Black-Box Optimization of Mixed Binary-Continuous Variables:
          Challenges and Opportunities in Evolutionary Model Merging},
-  author={Niloy, Md. Robiul Islam},
+  author={Niloy, Md. Robiul Islam and Akimoto, Youhei},
   year={2026},
   eprint={2605.12326},
   archivePrefix={arXiv},
