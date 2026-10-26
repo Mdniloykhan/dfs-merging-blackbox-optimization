@@ -263,15 +263,6 @@ Three fundamental challenges:
   url={https://arxiv.org/abs/2605.12326}
 }
 ```
-
----
-
-## Acknowledgments
-
-The author thanks Professor Youhei Akimoto for valuable discussions and feedback on earlier versions of this research that shaped the direction of this work, and for his foundational contributions to mixed categorical-continuous optimization theory.
-
----
-
 ## Contact
 
 **Md. Robiul Islam Niloy**  
